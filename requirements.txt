@@ -1,1 +1,1 @@
-snowflake-snowpark-python
+snowflake-connector-python==2.7.7
